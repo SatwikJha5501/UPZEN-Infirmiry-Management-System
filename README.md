@@ -255,10 +255,6 @@ We welcome contributions! Please follow these steps:
 - Ensure mobile responsiveness
 - Update documentation accordingly
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Development Team
 
 - **Satwik Jha** - Project Lead & Full Stack Developer
@@ -266,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-For support, email [satwikjha5501@gmail.com] or create an issue in the GitHub repository.
+For support, email [satwikkumarjha0505@gmail.com] or create an issue in the GitHub repository.
 
 ## 🔄 Version History
 
