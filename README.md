@@ -1,6 +1,6 @@
 # UPZEN - Infirmary Management System for UPES
 
-![UPZEN System](https://via.placeholder.com/800x400/1e3a8a/ffffff?text=UPZEN+Infirmary+Management+System)
+![UPZEN System](https://raw.githubusercontent.com/SatwikJha5501/UPZEN-Infirmiry-Management-System/refs/heads/main/Images/banner-2-img.png)
 
 ## 📋 Project Overview
 
